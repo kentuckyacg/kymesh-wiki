@@ -11,7 +11,11 @@ So if you're interested in joining us, [Join our Discord]()(dev note: add discor
 
 <tabs>
 <tab title="Meshtastic">
+Over the last few years we have built a wide mesh network stretching across kentucky using Meshtastic. Check out the Meshtastic tab on the left for more information or to get started.
+</tab>
+<tab title="Ham">
 
+[//]: # Need to add ham radio stuff()
 </tab>
 </tabs>
 
