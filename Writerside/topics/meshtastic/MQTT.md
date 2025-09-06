@@ -1,5 +1,3 @@
 # MQTT
 
-Placeholder
-
 Coming soon!

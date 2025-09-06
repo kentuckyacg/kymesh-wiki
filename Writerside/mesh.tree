@@ -9,12 +9,12 @@
     <toc-element topic="welcome.md"/>
     <toc-element toc-title="Meshtastic">
         <toc-element topic="Getting-started.md"/>
-        <toc-element topic="Recommanded-Configuration.md"/>
-        <toc-element topic="Recommanded-Devices.md"/>
+        <toc-element topic="Recommended-Configuration.md"/>
+        <toc-element topic="Recommended-Devices.md"/>
         <toc-element topic="MQTT.md"/>
         <toc-element topic="BBS.md"/>
     </toc-element>
     <toc-element toc-title="Ham">
-        <toc-element topic="placeholder.md"/>
+        <toc-element topic="Getting-Started.md"/>
     </toc-element>
 </instance-profile>

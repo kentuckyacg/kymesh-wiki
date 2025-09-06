@@ -29,7 +29,6 @@ Reserved for emergency situations.
 Just send a message over to KYBB! From there you should get a message with the command tree.
 Once in the command tree, you can use the commands key code (surrounded in brackets) to execute the command.
 
-
 ### Command Tree
 ```mermaid
 graph LR
